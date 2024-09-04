@@ -7,3 +7,5 @@
 2) 형식
    `parseInt(string);`
    `parseInt(string, radix);`
+   - string: 변환할 문자열.
+   - radix: 문자열의 진수를 나타내는 2에서 36 사이의 정수 (기본값은 10이 아님).
