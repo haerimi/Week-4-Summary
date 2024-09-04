@@ -9,6 +9,6 @@
    `parseInt(string, radix);`
    - string: 변환할 문자열.
    - radix: 문자열의 진수를 나타내는 2에서 36 사이의 정수 (기본값은 10이 아님).
-3) 예제
-   ` console.log(parseInt('123')); // 123
-console.log(parseInt('1010', 2)); // 2진수 1010을 10진수로 변환하여 10 `
+3) 예제 <br>
+   ` console.log(parseInt('123')); // 123 <br>
+   console.log(parseInt('1010', 2)); // 2진수 1010을 10진수로 변환하여 10 `<br>
