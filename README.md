@@ -1,5 +1,8 @@
 # 4주차 학습 내용 정리
 
+## 백엔드 기초: Node.js + Express 기본(4) ~ (6) 요약
+https://positive-shadow-92a.notion.site/4-79f533e1e6ac4177bd3ac5e97db8ef9e?pvs=4
+
 ## 백엔드 기초: Node.js + Express 기본(4)
 https://positive-shadow-92a.notion.site/4-Node-js-Express-e82bbaed4a434dbbaa3252151f2bf9b4?pvs=4
 
